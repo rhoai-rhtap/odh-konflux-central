@@ -47,6 +47,7 @@ on:
           - models-as-a-service
           - NeMo-Guardrails
           - notebooks
+          - odh-ai-first-demo
           - odh-dashboard
           - odh-data-science-pipelines-argo-argoexec
           - odh-data-science-pipelines-argo-workflowcontroller
