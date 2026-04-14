@@ -114,7 +114,7 @@ jobs:
 
       - name: Set environment variables
         run: |
-          echo "REPOSITORY=opendatahub-io/${{ inputs.component }}" >> $GITHUB_ENV
+          echo "REPOSITORY=rhoai-rhtap/${{ inputs.component }}" >> $GITHUB_ENV
           echo "OKC_FOLDER=${{ inputs.component }}" >> $GITHUB_ENV
 
       - name: Determine build branch
