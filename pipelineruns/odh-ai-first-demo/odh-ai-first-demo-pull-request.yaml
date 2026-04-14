@@ -23,7 +23,7 @@ spec:
   - name: revision
     value: '{{revision}}'
   - name: output-image
-    value: quay.io/opendatahub/odh-ai-first-demo:odh-stable
+    value: quay.io/opendatahub/odh-ai-first-demo:odh-pr
   - name: dockerfile
     value: Dockerfile
   - name: path-context
