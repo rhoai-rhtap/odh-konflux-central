@@ -48,6 +48,7 @@ on:
           - NeMo-Guardrails
           - notebooks
           - odh-ai-first-demo
+          - odh-ai-fourth-demo
           - odh-ai-third-demo
           - odh-dashboard
           - odh-data-science-pipelines-argo-argoexec
